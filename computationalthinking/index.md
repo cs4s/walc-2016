@@ -19,8 +19,8 @@ Computer Science and Coding make technology that we use every day of our lives p
 Computer Science drives [60 percent](http://blog.code.org/post/89267280803/stem){:target="_blank"} of STEM (Science, Technology, Engineering and Mathematics) jobs.
 
 In Australia, Computer Science concepts and Coding are present in the [Digital Technologies](http://www.australiancurriculum.edu.au/technologies/digital-technologies/curriculum/f-10?layout=1){:target="_blank"} area of the national curriculum.
-The Digital Technologies curriculum is focused on a few main skills, including: *Computational Thinking*, *Coding* and *Systems Thinking*, all of which are used by Computer Scientists.
-However, these skills are not just useful for students that want to become Computer Scientists and Sofware Engineers. 
+The Digital Technologies curriculum is focused on teaching a few main skills, including: *Computational Thinking*, *Coding* and *Systems Thinking*, all of which are used by Computer Scientists and Software Engineers.
+However, these skills are not just useful for students that want to pursue these careers. 
 Learning these skills can help students understand the digital world, become more informed "digital citizens", give them another tool for reasoning with, and give them skills to create and express themselves using computers.
 
 Computational thinking, the focus of today's workshop, means looking at a problem in a way that a computer can help us [solve it](http://barefootcas.org.uk/barefoot-primary-computing-resources/concepts/computational-thinking/){:target="_blank"}.
