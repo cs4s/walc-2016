@@ -17,7 +17,7 @@ Some educators see Art and Design as essential to innovation, and so they use th
 
 ## Files
 
-- [STEM Resources & Marshmallow Challenge (Powerpoint presentation)](stem_presentation.pptx)
+- [STEM Resources & Marshmallow Challenge (Powerpoint presentation)](stemchallenge_presentation.pptx)
 
 ## Marshmallow Challenge
 
